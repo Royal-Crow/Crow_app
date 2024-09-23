@@ -2,3 +2,5 @@
 * KNB: <a href="https://www.flaticon.com/free-icons/dice" title="dice icons">Dice icons created by Freepik - Flaticon</a>
 * TTT: <a href="https://www.flaticon.com/free-icons/tic-tac-toe" title="tic tac toe icons">Tic tac toe icons created by Freepik - Flaticon</a>
 
+* LINK YOUTUBE PARA EMBASAMENTO NO TICTACTOE:
+* https://youtu.be/btMujx7c7Yw?si=IrXTSb_cB1LWKIjc
