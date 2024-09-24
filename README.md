@@ -22,13 +22,17 @@ have java installed
 
 ## Toolbox
 
-
+• Netbeans
+• Youtube
+• Github
+• Canva
 
 ## Language and Libs
 
 - Java
   - Javaswing
-  - JavaAwt
+  - JavaAWT
+  - JavaCollections
 
 ## Team 💼
 |Name|email|Contribution|Academic Situation|
