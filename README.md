@@ -14,17 +14,24 @@ This is a simple project that has a basic login system with a unique username an
 
 ## Features ⚙
 > Basic login system<br>
-> Jogo knuclebones<br>
-> Jogo tictactoe
+> Game knuclebones<br>
+> Game tictactoe
 
 ## Requirements to run 🚀
+have java installed
 
 ## Toolbox
 
+
+
 ## Language and Libs
+
+- Java
+  - Javaswing
+  - JavaAwt
 
 ## Team 💼
 |Name|email|Contribution|Academic Situation|
 | -------- | -------- | -------- | -------- |
 |[<img src="https://github.com/user-attachments/assets/5b217dba-9daa-4b65-a50f-531511515945" width=115 > <br> <sub> Miguel Ribeiro </sub>](https://github.com/Miguelito0o)|miguel.ribeiro111155@gmail.com|Design/code|attending the 3rd period of high school integrated with the computer technician|
-|Vitor Vieira||code|attending the 3rd period of high school integrated with the computer technician|
+|<img src="" width=115 ><br><sub></sub>](https://githuh.com/VitorLira1)|vitor.lira06@aluno.ifce.edu.br|code|attending the 3rd period of high school integrated with the computer technician|
