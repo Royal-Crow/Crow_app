@@ -20,14 +20,14 @@ This is a simple project that has a basic login system with a unique username an
 ## Requirements to run 🚀
 have java installed
 
-## Toolbox
+## Toolbox 🧰
 
-• Netbeans
-• Youtube
-• Github
+• Netbeans<br>
+• Youtube<br>
+• Github<br>
 • Canva
 
-## Language and Libs
+## Language and Libs📚
 
 - Java
   - Javaswing
