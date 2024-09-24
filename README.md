@@ -20,9 +20,6 @@ This is a simple project that has a basic login system with a unique username an
 > Game knuclebones<br>
 > Game tictactoe
 
-## Requirements to run 🚀
-have java installed
-
 ## Toolbox 🧰
 
 • Netbeans<br>
